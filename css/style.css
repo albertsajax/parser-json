@@ -1,0 +1,56 @@
+body { margin:0; padding:0;}
+
+html{height:100%; width:100%;}	
+	
+
+
+#busquedamedallero{
+	width: 100%;
+	float: left;
+}
+
+.busquedamedallerofiltro{
+		width: 100%;
+	float: left;
+}
+	
+#medallerotitulos{
+	width:25%;
+	background-color: #b92025;
+	color: #FFF;
+	border: none;	
+	text-align:right;
+	margin-right:5px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	letter-spacing: 1px;
+	}
+	
+#medallerobusquedatitulos{
+	width:25%;
+	background-color: #b92025;
+	color: #FFF;
+	border: none;	
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	}	
+	
+#filtromedallerotitulos{
+	width:20%;
+	background-color: #026d43;
+	color: #FFF;
+	border: none;	
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-align: center;
+	}
+
+#titulototales{
+	width: 100%;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:17px;
+	text-align: left;
+	margin: 15px 5px;
+}
